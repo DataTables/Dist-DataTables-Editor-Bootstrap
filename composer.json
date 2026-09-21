@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-editor-bs",
-    "description": "Editor for DataTables with styling for [Bootstrap](https://getbootstrap.com/docs/3.3/)",
+    "description": "Editor for DataTables with styling for Bootstrap",
     "support": {
         "forum": "https://datatables.net/forums"
     },
